@@ -1,1 +1,1 @@
-# Waste-Classification-System-Using-CNN
+EcoVision-CNN
